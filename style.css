@@ -1,0 +1,31 @@
+/*
+Theme Name: Simple Custom Theme
+Theme URI: http://example.com/simple-custom-theme
+Author: Your Name
+Author URI: http://example.com
+Description: A simple custom WordPress theme.
+Version: 1.0
+License: GNU General Public License v2 or later
+License URI: http://www.gnu.org/licenses/gpl-2.0.html
+Text Domain: simple-custom-theme
+Tags: custom-background, custom-logo, custom-menu, featured-images, theme-options
+*/
+
+body {
+  font-family: Arial, sans-serif;
+  background-color: #f4f4f4;
+  margin: 0;
+  padding: 0;
+}
+
+header, footer {
+  background-color: #333;
+  color: white;
+  padding: 1em;
+  text-align: center;
+}
+
+main {
+  padding: 20px;
+  background-color: white;
+}
